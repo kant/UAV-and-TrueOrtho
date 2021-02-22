@@ -3,7 +3,7 @@ Master's Thesis
 
 * Application of UAV photos generates True Ortho Image
 
-* Modify the distortion of DSM result in distortion of builing edge in True Ortho image
+* Modify the distortion of DSM result in distortion of building edge in True Ortho image
 
 
 1. Building Roof Contour
@@ -24,7 +24,7 @@ Master's Thesis
 
 5. PC to DSM
 
--- Point cloud interpolates to DSM. 1) Original 2)divide into building and ground then interpolate with constrains.
+-- Point cloud interpolates to DSM. 1) Original 2) divide into building and ground then interpolate with constrains.
 
 6. T_ortho_py
 
